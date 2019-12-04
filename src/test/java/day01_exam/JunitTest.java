@@ -26,7 +26,9 @@ public class JunitTest {
 		//A修改一行
 
 	}
-	
+	/**
+	 * one分支修改test
+	 */
 	@Test
 	public void day02() {
 		//A工程师进行修改 一行
