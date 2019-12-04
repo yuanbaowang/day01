@@ -22,6 +22,7 @@ public class JunitTest {
 	
 	@Test
 	public void day02() {
+		//A工程师进行修改 一行
 		//设置断言
 		Assert.assertFalse(1==2);
 	}
