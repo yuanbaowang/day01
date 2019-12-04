@@ -10,5 +10,5 @@ package day01_exam;
  */
 
 public class TestOne {
-	int a = 90 ;
+	int a = 90;
 }
