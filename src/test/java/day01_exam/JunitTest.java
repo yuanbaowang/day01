@@ -15,7 +15,7 @@ import org.junit.Test;
  */
 public class JunitTest {
 	/**
-	 * B 加注释
+	 * B加注释
 	 */
 	@Test
 	public void day01() {
