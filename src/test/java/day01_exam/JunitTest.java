@@ -17,7 +17,11 @@ public class JunitTest {
 	
 	@Test
 	public void day01() {
+
 		//B修改一行
+
+		//A修改一行
+
 	}
 	
 	@Test
@@ -25,6 +29,7 @@ public class JunitTest {
 		//A工程师进行修改 一行
 		//设置断言
 		Assert.assertFalse(1==2);
+		//B工程师进行修改一行
 	}
 
 }
