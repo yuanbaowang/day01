@@ -17,7 +17,7 @@ public class JunitTest {
 	
 	@Test
 	public void day01() {
-		
+		//A修改一行
 	}
 	
 	@Test
